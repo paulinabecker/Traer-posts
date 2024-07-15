@@ -2,8 +2,6 @@
 
 Descripción
 
-En este desafío consumirás datos desde la siguiente API, la cual nos
-devuelve un arreglo con “posts” de ejemplo.
 Al pulsar sobre un botón, realizaremos la llamada a la API y mostraremos los datos de los
 post obtenidos.
 
